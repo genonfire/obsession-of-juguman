@@ -154,7 +154,7 @@ export default {
       let y = parseInt(event.clientY - this.$refs.photo.getBoundingClientRect().top)
 
       let res = await this.$dialog.prompt({
-        title: 'What do you want to write on (' + x + ',' + y + ')?',
+        title: 'What do you want to write on (' + x + ', ' + y + ')?',
         value: '',
         text: 'caption',
         actions: {
