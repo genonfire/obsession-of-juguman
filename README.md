@@ -18,5 +18,5 @@
 
 https://genonfire.github.com/obsession-of-juguman/
 
-DEMO - DB에 저장된 DATA를 받아 그리는 경우
-TEST - 이미지를 올리고 특정 좌표에 텍스트, 링크를 넣는 경우
+- DEMO : DB에 저장된 DATA를 받아 그리는 경우
+- TEST : DB에 저장할 DATA를 만드는 경우
